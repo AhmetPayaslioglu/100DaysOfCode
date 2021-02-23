@@ -2,6 +2,7 @@ import random
 from hangman_art import stages, logo
 from hangman_words import word_list
 
+#You should import hangman_art.py and hangman_words.py . You can find both of them in my repository.
 
 print(logo)
 game_is_finished = False
